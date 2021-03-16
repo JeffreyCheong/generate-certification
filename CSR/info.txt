@@ -1,0 +1,50 @@
+Certificate:
+    Data:
+        Version: 1 (0x0)
+        Serial Number:
+            62:c5:13:71:8e:dc:1b:1f:55:8d:59:e5:1a:16:9b:68:5f:60:74:7e
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = SG, ST = Singapore, L = Singapore, O = Panasonic, OU = GPDC, CN = pana_000001, emailAddress = jeffrey.cheong@sg.panasonic.com
+        Validity
+            Not Before: Feb 24 09:43:02 2021 GMT
+            Not After : Feb 24 09:43:02 2022 GMT
+        Subject: C = SG, ST = Singapore, L = Singapore, O = Panasonic, OU = GPDC, CN = pana_000001, emailAddress = jeffrey.cheong@sg.panasonic.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                RSA Public-Key: (2048 bit)
+                Modulus:
+                    00:ae:d1:07:10:ae:53:83:79:bb:f4:08:57:53:71:
+                    4c:74:e0:db:e5:f4:38:a1:91:5c:b7:72:9c:c1:24:
+                    01:d8:35:ff:57:7c:4a:9f:5a:2a:fb:53:25:de:b6:
+                    e6:88:e1:6c:53:fd:41:6a:f3:10:57:c6:7c:32:5d:
+                    70:59:d4:d8:74:03:ab:ad:fa:74:f0:07:d0:c4:9e:
+                    81:6b:e0:82:4c:e0:b4:0e:cd:74:64:ed:c3:2f:df:
+                    ec:c1:6c:ec:83:03:d6:06:1d:90:f0:57:89:28:29:
+                    4a:7c:7d:b3:d9:d4:3a:ce:23:83:3b:90:7d:55:73:
+                    52:45:af:c2:6a:84:2f:f1:48:db:c4:eb:f2:67:f2:
+                    01:22:5b:2c:5b:d0:1a:69:dc:cc:b4:07:9c:07:18:
+                    86:3a:da:0c:a4:3f:3d:76:be:3c:88:eb:26:e8:31:
+                    f8:bf:06:b2:83:c8:30:20:e2:c2:cb:e2:ed:f6:a5:
+                    a5:42:f8:91:2c:eb:b5:0c:12:13:c4:86:a6:97:9c:
+                    23:ef:37:9e:56:1d:ec:33:86:5a:5f:69:e2:53:40:
+                    e0:5f:91:ff:78:30:87:bb:e4:56:cf:0e:ff:b8:07:
+                    1e:9e:65:01:6a:cd:c4:a3:b6:4e:4e:5a:88:63:7d:
+                    8f:1c:26:7d:79:6c:8b:9f:cb:78:14:96:ee:a1:97:
+                    e2:df
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha256WithRSAEncryption
+         43:20:33:38:48:68:e8:61:4d:2d:e2:13:b9:c5:fb:15:35:b0:
+         23:7e:9d:1c:3b:85:a3:ea:c3:7a:e2:73:1f:59:3a:5b:2f:5b:
+         8c:f0:18:fe:75:69:e9:c5:80:b4:8f:ca:fa:d7:23:13:01:0c:
+         f2:1c:95:e2:db:e7:b6:14:ed:05:2d:7c:f7:8f:ac:fc:c4:07:
+         f1:18:ae:e3:9e:4c:d7:36:4e:66:2e:8e:5a:63:ac:e7:bb:a2:
+         d8:67:5f:33:2a:69:f1:4b:36:31:14:fb:da:f4:d4:9d:eb:c3:
+         c6:79:b4:e9:3b:17:58:f0:f8:1e:8b:6a:d2:1e:7f:42:6f:df:
+         37:eb:7a:07:c3:d5:7d:f0:7e:be:ce:79:f6:68:aa:2e:b7:8f:
+         0c:dc:8a:f8:01:a1:6c:97:82:ea:ec:4f:09:10:a3:b1:dd:90:
+         a5:2e:33:2e:b8:43:a8:97:97:a4:5c:52:d4:f0:ce:e2:ce:1c:
+         9c:4f:c8:96:1e:98:22:ba:7b:cc:fd:24:6e:ac:75:44:65:7c:
+         20:a4:f6:e3:31:6e:45:c1:a9:11:a8:e3:de:f7:52:11:d3:c0:
+         d8:e4:07:21:69:d3:f1:75:e2:c5:e6:6c:81:c0:5a:8b:c4:10:
+         50:fd:99:b2:19:a8:12:30:43:4c:ca:ed:87:92:00:46:4b:87:
+         30:19:c2:c7
